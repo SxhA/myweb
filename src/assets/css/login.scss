@@ -1,0 +1,27 @@
+.login-box{
+    width: 280px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px 0 0;
+    h1{
+        margin: 0 0 20px;
+    }
+    input{
+        border-radius: 3px;
+        box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0,0,0,.08) inset;
+        border: 1px solid #c8c8c8;
+        color: #777;
+        margin: 0 0 20px;
+        width: 100%;
+        height: 34px;
+        padding: 0 12px;
+        box-sizing: border-box;
+    }
+}
+
+.btn-box{
+    width: 100%;
+    button{
+        width: 100%;
+    }
+}

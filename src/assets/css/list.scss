@@ -1,0 +1,16 @@
+.list-box{
+    width: 100%;
+    border: 1px solid #E6E9ED;
+    padding: 10px 16px;
+    color: #73879C;
+    li{
+        font-size: 2em;
+        margin: 5px 0;
+    }
+}
+.list-link{
+    cursor: pointer;
+}
+.list-link:hover{
+    text-decoration: underline;
+}
