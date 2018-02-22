@@ -1,4 +1,5 @@
 # myweb
+<<<<<<< HEAD
 
 > lzy
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+我自己做的网站demo
+>>>>>>> 31ff4234d4883705e72514e5ada7dae73e94415a
